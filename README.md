@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Anuragh
 
-<!--
-**anuragh-9/anuragh-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Information Technology Student  
+Aspiring Software Engineer  
+Interested in Backend Development, DSA & AI/ML
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+Java • Python • JavaScript • SQL
+
+### Backend
+Spring Boot • REST APIs
+
+### Frontend
+React.js • HTML • CSS • JavaScript
+
+### Database
+MySQL
+
+### Tools
+Git • GitHub • VS Code
+
+## Featured Projects
+
+### Notes App
+Full-stack note-taking application with JWT authentication.
+
+**Tech:** Java, Spring Boot, React, MySQL
+
+### AI Resume Analyzer
+AI-powered resume analysis application using the Google Gemini API.
+
+**Tech:** HTML, CSS, JavaScript, Gemini API
+
+### DSA Practice
+Java implementations and LeetCode practice covering common data structures and algorithms.
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Backend Development
+- Machine Learning
+- Problem Solving
+
+## Coding Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/punnana-anuragh/)
+- [LeetCode](https://leetcode.com/u/Anuragh_punnana/)
+
+---
+
+Always learning, building, and improving.
+
+
